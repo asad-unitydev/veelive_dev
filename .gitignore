@@ -1,5 +1,3 @@
-# Ignore all files inside Build folder
-Build/*
 
 # Except the specific file we want to track with Git LFS
-!Build/VeeLiveTest_build.data.unityweb
+Build/Build.data.unityweb
